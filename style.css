@@ -1,0 +1,26 @@
+body{
+    background-color: slateblue;
+    background-image: url(obgh.png);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hero-image{ 
+    background-color: blanchedalmond;
+}
+.hero-text{
+    text-align: center;
+}
+img{
+    border-radius: 10px;
+}
+div{
+    border-radius: 10px;
+    border-collapse:collapse;
+}
+button{
+    width: 50%;
+}
+
+
+
